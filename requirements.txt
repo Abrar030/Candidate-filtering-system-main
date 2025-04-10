@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+langgraph
+pandas
+python-dotenv
+PyMuPDF
+numpy
+tiktoken
