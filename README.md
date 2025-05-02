@@ -9,7 +9,7 @@
 The **Candidate Filtering System** is a multi-agent, AI-powered application designed for the **Human Resources (HR) Department**.  
 It automates the process of analyzing resumes, comparing them against job descriptions, and selecting the top candidates — powered by advanced NLP techniques and LLMs.
 
----
+---  
 
 ## ✨ Features
 - **Resume Parsing and Analysis:**  
